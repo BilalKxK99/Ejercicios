@@ -10,7 +10,7 @@
 Navegamos hacia [travis](https://travis-ci.org) , clickamos en **sign up** y sincronizamos Travis con nuestra cuenta de **GitHub**
 
 
-![Log up](htpps://github.com/biilal1999/ejercicios/blob/master/tema4/img/TravisSegundo.png)
+![Log up](https://github.com/biilal1999/ejercicios/blob/master/tema4/img/TravisSegundo.png)
 
 
 
