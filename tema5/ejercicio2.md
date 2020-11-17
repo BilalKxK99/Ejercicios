@@ -35,7 +35,7 @@ En la siguiente imagen podemos ver una prueba del funcionamiento de la función
 
 
 
-[Aquí](https://ejercicios-22wjyym7g.vercel.app/api/date.rb) pueden acceder ustedes mismos al resultado de la función en **tiempo real**, además de comprobar con varias **peticiones HTTP**, que la hora se va actualizando correctamente.
+[Aquí](https://ejercicios-seven.vercel.app/api/date.rb) pueden acceder ustedes mismos al resultado de la función en **tiempo real**, además de comprobar con varias **peticiones HTTP**, que la hora se va actualizando correctamente.
 
 
 
