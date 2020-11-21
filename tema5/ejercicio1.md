@@ -77,6 +77,3 @@ Por último, confirmamos en nuestro **Dashboard**, que hemos desplegadp Vercel c
 
 ![Dashboard](https://github.com/biilal1999/Ejercicios/blob/master/tema5/img/VercelDashboard.png)
 
-
-
-[Aquí](https://vercel.com/biilal1999) tienen nuestro perfil de **Vercel**
