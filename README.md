@@ -15,6 +15,19 @@ En este repositorio irán los ejercicios
 + [Tema 5](https://github.com/biilal1999/Ejercicios/blob/master/tema5)
 
 
-    + [Ejercicio 9](https://github.com/biilal1999/Ejercicios/blob/master/tema5/ejercicio1.md)
+    + [Ejercicio 1](https://github.com/biilal1999/Ejercicios/blob/master/tema5/ejercicio1.md)
     
-    + [Ejercicio 10](https://github.com/biilal1999/Ejercicios/blob/master/tema5/ejercicio2.md) 
+    + [Ejercicio 2](https://github.com/biilal1999/Ejercicios/blob/master/tema5/ejercicio2.md) 
+
+
+
++ [Tema 6](https://github.com/biilal1999/Ejercicios/blob/master/tema6)
+
+
+    + [Ejercicio 1](https://github.com/biilal1999/Ejercicios/blob/master/tema6/ejercicio1.md)
+    
+    + [Ejercicio 2](https://github.com/biilal1999/Ejercicios/blob/master/tema6/ejercicio2.md) 
+
+    + [Ejercicio 3](https://github.com/biilal1999/Ejercicios/blob/master/tema6/ejercicio1.md)
+    
+    + [Ejercicio 4](https://github.com/biilal1999/Ejercicios/blob/master/tema6/ejercicio2.md) 
