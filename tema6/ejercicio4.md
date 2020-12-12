@@ -12,4 +12,4 @@ Los **tests** están implementados [aquí](https://github.com/biilal1999/GameSto
 
 
 
-![resultadoCuarto](https://github.com/biilal1999/Ejercicios/tree/master/tema6/img/resultadoCuarto.jpg)
+![resultado](https://github.com/biilal1999/Ejercicios/tree/master/tema6/img/resultadoCuarto.jpg)
