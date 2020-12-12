@@ -17,4 +17,4 @@
 
 
 
-![resultado](https://github.com/biilal1999/Ejercicios/tree/master/tema6/img/resultadoPrimero.png) 
+![resultado](https://github.com/biilal1999/Ejercicios/blob/master/tema6/img/etc.png) 
